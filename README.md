@@ -1,1 +1,1 @@
-# Projekt_badawczy_System_rozpoznawania_zdarzen_dzwiekowych_w_przestrzeni_domowej
+# Projekt badawczy system rozpoznawania zdarzen dzwiekowych w przestrzeni domowej
