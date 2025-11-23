@@ -218,3 +218,8 @@ __marimo__/
 # Jetbrains
 .idea
 /.idea
+
+# Dataset
+dataset/doorbell/*.wav
+dataset/opening_door/*.wav
+dataset/vacuum_cleaner/*.wav
