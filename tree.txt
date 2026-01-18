@@ -1,0 +1,47 @@
+.
+├── dataset
+│   ├── clapping
+│   │   ├── clapping_001.wav
+│   │   ├── clapping_002.wav
+│   │   └── clapping_103.wav
+│   ├── doorbell
+│   │   ├── doorbell_001.wav
+│   │   ├── doorbell_002.wav
+│   │   └── doorbell_100.wav
+│   ├── door_knock
+│   │   ├── door_knock_001.wav
+│   │   ├── door_knock_002.wav
+│   │   └── door_knock_100.wav
+│   ├── faucet
+│   │   ├── faucet_001.wav
+│   │   ├── faucet_002.wav
+│   │   ├── faucet_003.wav
+│   │   ├── faucet_004.wav
+│   │   └── faucet_100.wav
+│   ├── footsteps
+│   │   ├── footsteps_001.wav
+│   │   └── footsteps_100.wav
+│   ├── hairdryer
+│   │   ├── hairdryer_001.wav
+│   │   ├── hairdryer_002.wav
+│   │   ├── hairdryer_003.wav
+│   │   └── hairdryer_097.wav
+│   └── vacuum_cleaner
+│       ├── vacuum_cleaner_001.wav
+│       ├── vacuum_cleaner_002.wav
+│       ├── vacuum_cleaner_098.wav
+│       ├── vacuum_cleaner_099.wav
+│       └── vacuum_cleaner_100.wav
+├── README.md
+├── requirements.txt
+├── src
+│   └── notebook
+│       ├── mfcc-impact_advanced.ipynb
+│       ├── mfcc-impact.ipynb
+│       ├── mfcc-impact_simple.ipynb
+│       ├── model-training.ipynb
+│       ├── model-training_old.ipynb
+│       └── vggish.ipynb
+└── tree.txt
+
+11 directories, 709 files
